@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.btn{
+    background-color: gray;
+}
+form{
+    margin: 5rem;
+    
+}
+fieldset{
+    padding: 2rem;
+}
